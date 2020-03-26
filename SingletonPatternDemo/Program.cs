@@ -15,7 +15,7 @@ namespace SingletonPatternDemo
             // Daarin heeft singleton een voordeel. Je hebt hier maar 1 instantie nodig ipv meerdere. Minder lastig voor het geheugen
             // Dit is ook beter voor unit testing en wordt erg veel gebruikt bij loggers
 
-            // Dit is puur voor GIt, nedeer dit maar
+
             Employee emp1 = new Employee();
             emp1.FirstName = "Kenan";
             emp1.LastName = "Kurda";
